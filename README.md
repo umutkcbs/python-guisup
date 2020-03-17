@@ -8,3 +8,4 @@ Bilgisayarın ve internetin hızına bağlı olarak "time.sleep(x)" satırların
 --------
 
 (Türkçe karakter sorunu düzletilecek)
+(İnternet hızlanınca exe halini yüklicem, ttnet pişmanlıktır)
