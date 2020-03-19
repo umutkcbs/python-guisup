@@ -6,6 +6,7 @@ shell:startup klasörüne koyarak daha kullanışlı yapabilirsiniz.
 Bilgisayarın ve internetin hızına bağlı olarak "time.sleep(x)" satırlarını değiştirebilirsiniz.
 
 --------
+EXE: https://mega.nz/#!A6JhBQoC!PZP2DvGG2xFbkl7VoBRJFE-tumzZpHx6qTod6WkX6nI
+--------
 
 (Türkçe karakter sorunu düzletilecek)
-(İnternet hızlanınca exe halini yüklicem, ttnet pişmanlıktır)
