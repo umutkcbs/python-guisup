@@ -9,4 +9,4 @@ Bilgisayarın ve internetin hızına bağlı olarak "time.sleep(x)" satırların
 EXE: https://mega.nz/#!A6JhBQoC!PZP2DvGG2xFbkl7VoBRJFE-tumzZpHx6qTod6WkX6nI
 --------
 
-(Türkçe karakter sorunu düzletilecek)
+(Türkçe karakter sorunu var, belki ileride düzeltirim)
